@@ -1,0 +1,14 @@
+C:\Users\TRINH\source\repos\DemoFormDangNhap\bin\Debug\Database1.mdf
+C:\Users\TRINH\source\repos\DemoFormDangNhap\bin\Debug\Database1_log.ldf
+C:\Users\TRINH\source\repos\DemoFormDangNhap\bin\Debug\DemoFormDangNhap.exe.config
+C:\Users\TRINH\source\repos\DemoFormDangNhap\bin\Debug\DemoFormDangNhap.exe
+C:\Users\TRINH\source\repos\DemoFormDangNhap\bin\Debug\DemoFormDangNhap.pdb
+C:\Users\TRINH\source\repos\DemoFormDangNhap\obj\Debug\DemoFormDangNhap.csproj.AssemblyReference.cache
+C:\Users\TRINH\source\repos\DemoFormDangNhap\obj\Debug\DemoFormDangNhap.DangKy.resources
+C:\Users\TRINH\source\repos\DemoFormDangNhap\obj\Debug\DemoFormDangNhap.Form1.resources
+C:\Users\TRINH\source\repos\DemoFormDangNhap\obj\Debug\DemoFormDangNhap.Properties.Resources.resources
+C:\Users\TRINH\source\repos\DemoFormDangNhap\obj\Debug\DemoFormDangNhap.QuenMatKhau.resources
+C:\Users\TRINH\source\repos\DemoFormDangNhap\obj\Debug\DemoFormDangNhap.csproj.GenerateResource.cache
+C:\Users\TRINH\source\repos\DemoFormDangNhap\obj\Debug\DemoFormDangNhap.csproj.CoreCompileInputs.cache
+C:\Users\TRINH\source\repos\DemoFormDangNhap\obj\Debug\DemoFormDangNhap.exe
+C:\Users\TRINH\source\repos\DemoFormDangNhap\obj\Debug\DemoFormDangNhap.pdb
